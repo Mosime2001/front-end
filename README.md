@@ -1,1 +1,1 @@
-The Project is an on-going project of an E-commerce website. So far i have created front-end of the website,and i am still waiting for my client's review so that i can ammend before moving to back-end construction.
+The Project is an on-going project of an E-commerce website. So far i have created the User Interface of the website,and i will soon start with the back-end programming.
