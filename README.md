@@ -1,1 +1,1 @@
-The Project is an on-going project of an E-commerce website. So far i have created front-end of the website,and i am stilltrying to clarify the confusions that i have about the back-end because backend is not my stronghold,but as a computer science and physics graduate i can't osuccumb to challange,instead i have to retaliate!
+The Project is an on-going project of an E-commerce website. So far i have created front-end of the website,and i am still waiting for my client's review so that i can ammend before moving to back-end construction.
